@@ -35,7 +35,7 @@
 				itemStyle: {
 					normal: {
 						opacity: 1, // 透明度
-						borderColor: "#5B5C63", // 中国界线颜色
+						borderColor: "#5b5c63", // 中国界线颜色
 						borderWidth: 4, // 中国界线的宽度
 						areaColor: 'rgba(0,0,0,0)', // 整个中国的颜色
 					},
@@ -95,7 +95,7 @@
 						itemStyle: {
 							normal: {
 								areaColor: '#040812',
-								borderColor: '#4D4C4C',
+								borderColor: '#4d4c4c',
 							},
 							emphasis: {
 								areaColor: '#2a333d'
